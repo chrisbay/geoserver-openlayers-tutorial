@@ -1,14 +1,15 @@
 {
-  "name": "geoserver-ol-tutorial",
-  "description": "GeoServer + OpenLayers Tutorial",
+  "name": "stl-parks",
+  "description": "St. Louis Parks App: A GeoServer+OpenLayers Tutorial",
   "version": "0.0.0",
   "private": true,
   "main": "main.js",
   "dependencies": {
     "colormap": "^2.2.0",
+    "isomorphic-fetch": "^2.2.1",
     "ol": "^4.6.4",
     "ol-hashed": "^1.0.2",
-    "ol-mapbox-style": "^2.6.1"
+    "ol-mapbox-style": "^2.10.2"
   },
   "devDependencies": {
     "babel-cli": "^6.24.1",
