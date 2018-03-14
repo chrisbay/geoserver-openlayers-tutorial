@@ -1,5 +1,3 @@
-import 'ol';
-import 'ol/ol.css';
 import Overlay from 'ol/overlay';
 import {apply} from 'ol-mapbox-style';
 import WFS from 'ol/format/wfs';
